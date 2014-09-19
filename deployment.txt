@@ -1,0 +1,4 @@
+1-	Installer Tomee1.7.0
+2-	Configurer Tomee pour hibernate (voir contenu du fichier TomEE-Hibernate-1.6.0.2-plus_LibSupplementaires.zip)
+3-	Copier le fichier alerting.war dans D:\Servers\TomEE-Hibernate-plus-1.7.0\apps
+4-	Demarret Tomee
