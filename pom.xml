@@ -7,7 +7,7 @@
     <artifactId>alerting</artifactId>
     <packaging>pom</packaging>
     <name>alerting</name>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <description />
     <modules>
         <module>ear</module>
