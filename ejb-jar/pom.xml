@@ -6,7 +6,7 @@
     <artifactId>ejb-jar</artifactId>
     <packaging>ejb</packaging>
     <name>ejb-jar</name>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <parent>
         <artifactId>alerting</artifactId>
         <groupId>com.playtech.interview</groupId>
